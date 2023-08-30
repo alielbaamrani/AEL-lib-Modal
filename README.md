@@ -8,7 +8,6 @@ First projet npm
 - customContent
 
 ## Tech Stack
-- TypeScript 
 - React
 
 
